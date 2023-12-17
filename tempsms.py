@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# By Sandaru Ashen: https://github.com/Sl-Sanda-Ru,https://t.me/Sl_Sanda_Ru
+# By Rizmee
 
 import os
 import subprocess
